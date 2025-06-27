@@ -1,9 +1,10 @@
-# Centro ¡Supérate! Fundación Poma
-
-> Transformando Vidas Vía Educación
-
-![Fundación Poma Logo](https://www.fundacionpoma.org/wp-content/uploads/2021/07/logo_poma.png)
-<img src="/logo-CSFP.png">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 1rem;">
+  <img src="/logo-CSFP.png" width="200" alt="Centro ¡Supérate! Fundación Poma logo" style="flex-shrink: 0;">
+  <div style="text-align: left;">
+    <h1 style="margin: 0;">Centro ¡Supérate! Fundación Poma</h1>
+    <blockquote style="font-style: italic; margin: 0;">Transformando Vidas Vía Educación</blockquote>
+  </div>
+</div>
 
 ## 📚 ¿Quiénes somos?
 
